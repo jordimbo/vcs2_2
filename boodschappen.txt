@@ -2,3 +2,7 @@ pizza:
 -deeg
 -tomaatsaus
 -kaas
+-salami
+
+ontbijt:
+-ei
